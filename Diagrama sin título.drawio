@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T06:35:36.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ua0HLmVf5PRVROUbegAy" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T05:50:47.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="75V-pSIaA9gEs1GF84DD" version="21.3.7" type="github">
   <diagram name="Página-1" id="b2GBKhXSbdN4ZsOGRmR0">
-    <mxGraphModel dx="1629" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,8 +109,11 @@
         <mxCell id="4I5N0-QppBxn1IQBgqWN-29" value="N:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="137" y="207.5" width="40" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="wf-pJBug-1P9c5IFpErA-1" value="Diagrama físico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;horizontal=1;spacing=-1;" vertex="1" parent="1">
+        <mxCell id="wf-pJBug-1P9c5IFpErA-1" value="Diagrama físico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;horizontal=1;spacing=-1;" parent="1" vertex="1">
           <mxGeometry x="-85" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SPCix7Z1RvZTZOEZ342P-1" value="&lt;u style=&quot;font-style: italic; font-weight: bold;&quot;&gt;usuarios&lt;/u&gt;&lt;br&gt;id:INTEGER(PK)&lt;br&gt;login:Varchar (30)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
